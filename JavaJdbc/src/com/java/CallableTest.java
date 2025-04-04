@@ -12,7 +12,7 @@ public class CallableTest {
 
 	public static void main(String[] args) {
 		String url="jdbc:mysql://localhost:3306/java";
-		String user="root";
+		String user="hello";
 		String pwd="Nikshith@2723";
 		//String sql="insert into sample values(?,?)";
 		try {
